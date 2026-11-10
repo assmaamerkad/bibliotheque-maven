@@ -93,7 +93,7 @@
         <configuration>
             <archive>
                 <manifest>
-                    <mainClass>io.github.Main</mainClass>
+                    <mainClass>io.github.assmaamerkad.Main</mainClass>
                 </manifest>
             </archive>
         </configuration>
